@@ -1,2 +1,2 @@
-# wmac131.github.io
-Personal Blog
+# Thing 1
+Thing2
