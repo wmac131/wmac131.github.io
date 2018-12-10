@@ -1,5 +1,5 @@
-# Visualizing Mortgages with T-SNE
-Thing 1
+# Big Data in Small Dimensions
+Machine Learning Methods for Data Visualization
 
 
 # Machine Learning in Trading
