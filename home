@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>August Warren – Unactionable insights</title>
+
+        <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="Unactionable insights">
+    <meta property="og:description" content="Unactionable insights" />
+    
+    <meta name="author" content="August Warren" />
+
+    
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="August Warren - Unactionable insights" href="/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="/" class="site-avatar"><img src="https://raw.githubusercontent.com/gwarrenn/gwarrenn.github.io/master/images/20170507_160722.jpg" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="/">August Warren</a></h1>
+            <p class="site-description">Unactionable insights</p>
+          </div>
+
+          <nav>
+            <a href="/">Blog</a>
+            <a href="/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      <div class="posts">
+  
+    <article class="post">
+
+      <h1><a href="/Fruit-Ranking/">Fruit Ranking!</a></h1>
+
+      <div class="entry">
+        <p><img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/fruit_header.png" alt="" /></p>
+
+
+      </div>
+
+      <a href="/Fruit-Ranking/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/Stop-and-Frisk-DC/">Investigating Racial Inequity in D.C. Stop & Frisk</a></h1>
+
+      <div class="entry">
+        <p><img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/sf_header.png" alt="" /></p>
+<h4>August Warren, Mahkah Wu, and Mika Weinstein</h4>
+<p><a name="analysis"></a></p>
+
+
+      </div>
+
+      <a href="/Stop-and-Frisk-DC/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/Bike-Accidents-in-The-District/">Bike Accidents In The District</a></h1>
+
+      <div class="entry">
+        <p><img src="/images/header.jpg" alt="_config.yml" /></p>
+
+
+      </div>
+
+      <a href="/Bike-Accidents-in-The-District/" class="read-more">Read More</a>
+    </article>
+  
+    <article class="post">
+
+      <h1><a href="/whisky/">Whisky</a></h1>
+
+      <div class="entry">
+        <p><img src="/images/single-malts-at-merlins.jpg" alt="_config.yml" /></p>
+
+
+      </div>
+
+      <a href="/whisky/" class="read-more">Read More</a>
+    </article>
+  
+</div>
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          
+
+
+
+<a href="https://github.com/gwarrenn"><i class="svg-icon github"></i></a>
+
+
+
+
+
+
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-124843564-1', 'auto');
+		ga('send', 'pageview', {
+		  'page': '/',
+		  'title': ''
+		});
+	</script>
+	<!-- End Google Analytics -->
+
+
+  </body>
+</html>
